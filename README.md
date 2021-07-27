@@ -11,7 +11,7 @@ Para este projeto, foram utilizadas em especial as bibliotecas **yfinance** e **
 !pip install investpy
 ```
 
-Posteriormente faremos os imports de todas as bibliotecas que será utilizadas
+Posteriormente faremos os imports de todas as bibliotecas que serão utilizadas
 
 ```
 import yfinance as yf
