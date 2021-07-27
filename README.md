@@ -61,6 +61,6 @@ Utilizando a biblioteca seaborn para detalhar o gráfico de cada ativo
 sns.set()
 df.plot(subplots=True, figsize=(20,8))
 plt.show()
-``
+```
 
 ![Captura de tela de 2021-07-27 10-19-04](https://user-images.githubusercontent.com/1071578/127160665-c5d6d247-e1c6-45ce-8268-2ee5777a8d03.png)
