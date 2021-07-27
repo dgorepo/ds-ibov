@@ -1,9 +1,12 @@
-# Bovespa com Python
+## Bovespa com Python
 
 ##### Projeto desenvolvido para analisar desempenho de carteira de investimentos na Bolsa de Valores de São Paulo (Bovespa) com Python
 
-## 1 Bibliotecas
+#### Bibliotecas
+
+Para este projeto, foram utilizadas as bibliotecas **yfinance** e **investpy**
 
 ```
-# Isto está formatado como código
+!pip install yfinance
+!pip install investpy
 ```
