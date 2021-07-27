@@ -1,1 +1,1 @@
-# Análisando desempenho de carteira na Bovespa com Python
+# Desempenho de carteira na Bovespa com Python
