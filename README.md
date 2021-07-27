@@ -24,3 +24,11 @@ import matplotlib.pyplot as plt
 import warnings
 from datetime import date, timedelta
 ```
+
+Montando a lista de ativos
+
+```
+lista_ativos = ['WEGE3.SA', 'LREN3.SA',
+                'MGLU3.SA', 'VALE3.SA',
+                'RENT3.SA', 'PRIO3.SA']
+``
